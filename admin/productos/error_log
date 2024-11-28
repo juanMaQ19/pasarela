@@ -1,0 +1,49 @@
+[26-Jul-2024 17:33:22 America/La_Paz] PHP Notice:  Undefined variable: variantes in /home/lcaosysc/womenspeedup.com/pasarela/admin/productos/edita.php on line 158
+[26-Jul-2024 17:33:22 America/La_Paz] PHP Warning:  Invalid argument supplied for foreach() in /home/lcaosysc/womenspeedup.com/pasarela/admin/productos/edita.php on line 158
+[26-Jul-2024 17:33:22 America/La_Paz] PHP Notice:  Undefined variable: tallas in /home/lcaosysc/womenspeedup.com/pasarela/admin/productos/edita.php on line 203
+[26-Jul-2024 17:33:22 America/La_Paz] PHP Warning:  Invalid argument supplied for foreach() in /home/lcaosysc/womenspeedup.com/pasarela/admin/productos/edita.php on line 203
+[26-Jul-2024 17:33:22 America/La_Paz] PHP Notice:  Undefined variable: colores in /home/lcaosysc/womenspeedup.com/pasarela/admin/productos/edita.php on line 213
+[26-Jul-2024 17:33:22 America/La_Paz] PHP Warning:  Invalid argument supplied for foreach() in /home/lcaosysc/womenspeedup.com/pasarela/admin/productos/edita.php on line 213
+[26-Jul-2024 17:33:34 America/La_Paz] PHP Notice:  Undefined variable: variantes in /home/lcaosysc/womenspeedup.com/pasarela/admin/productos/edita.php on line 158
+[26-Jul-2024 17:33:34 America/La_Paz] PHP Warning:  Invalid argument supplied for foreach() in /home/lcaosysc/womenspeedup.com/pasarela/admin/productos/edita.php on line 158
+[26-Jul-2024 17:33:34 America/La_Paz] PHP Notice:  Undefined variable: tallas in /home/lcaosysc/womenspeedup.com/pasarela/admin/productos/edita.php on line 203
+[26-Jul-2024 17:33:34 America/La_Paz] PHP Warning:  Invalid argument supplied for foreach() in /home/lcaosysc/womenspeedup.com/pasarela/admin/productos/edita.php on line 203
+[26-Jul-2024 17:33:34 America/La_Paz] PHP Notice:  Undefined variable: colores in /home/lcaosysc/womenspeedup.com/pasarela/admin/productos/edita.php on line 213
+[26-Jul-2024 17:33:34 America/La_Paz] PHP Warning:  Invalid argument supplied for foreach() in /home/lcaosysc/womenspeedup.com/pasarela/admin/productos/edita.php on line 213
+[26-Jul-2024 17:34:14 America/La_Paz] PHP Notice:  Undefined variable: variantes in /home/lcaosysc/womenspeedup.com/pasarela/admin/productos/edita.php on line 158
+[26-Jul-2024 17:34:14 America/La_Paz] PHP Warning:  Invalid argument supplied for foreach() in /home/lcaosysc/womenspeedup.com/pasarela/admin/productos/edita.php on line 158
+[26-Jul-2024 17:34:14 America/La_Paz] PHP Notice:  Undefined variable: tallas in /home/lcaosysc/womenspeedup.com/pasarela/admin/productos/edita.php on line 203
+[26-Jul-2024 17:34:14 America/La_Paz] PHP Warning:  Invalid argument supplied for foreach() in /home/lcaosysc/womenspeedup.com/pasarela/admin/productos/edita.php on line 203
+[26-Jul-2024 17:34:14 America/La_Paz] PHP Notice:  Undefined variable: colores in /home/lcaosysc/womenspeedup.com/pasarela/admin/productos/edita.php on line 213
+[26-Jul-2024 17:34:14 America/La_Paz] PHP Warning:  Invalid argument supplied for foreach() in /home/lcaosysc/womenspeedup.com/pasarela/admin/productos/edita.php on line 213
+[26-Jul-2024 17:34:16 America/La_Paz] PHP Notice:  Undefined variable: variantes in /home/lcaosysc/womenspeedup.com/pasarela/admin/productos/edita.php on line 158
+[26-Jul-2024 17:34:16 America/La_Paz] PHP Warning:  Invalid argument supplied for foreach() in /home/lcaosysc/womenspeedup.com/pasarela/admin/productos/edita.php on line 158
+[26-Jul-2024 17:34:16 America/La_Paz] PHP Notice:  Undefined variable: tallas in /home/lcaosysc/womenspeedup.com/pasarela/admin/productos/edita.php on line 203
+[26-Jul-2024 17:34:16 America/La_Paz] PHP Warning:  Invalid argument supplied for foreach() in /home/lcaosysc/womenspeedup.com/pasarela/admin/productos/edita.php on line 203
+[26-Jul-2024 17:34:16 America/La_Paz] PHP Notice:  Undefined variable: colores in /home/lcaosysc/womenspeedup.com/pasarela/admin/productos/edita.php on line 213
+[26-Jul-2024 17:34:16 America/La_Paz] PHP Warning:  Invalid argument supplied for foreach() in /home/lcaosysc/womenspeedup.com/pasarela/admin/productos/edita.php on line 213
+[13-Aug-2024 09:37:42 America/La_Paz] PHP Notice:  Undefined variable: variantes in /home/lcaosysc/womenspeedup.com/pasarela/admin/productos/edita.php on line 158
+[13-Aug-2024 09:37:42 America/La_Paz] PHP Warning:  Invalid argument supplied for foreach() in /home/lcaosysc/womenspeedup.com/pasarela/admin/productos/edita.php on line 158
+[13-Aug-2024 09:37:42 America/La_Paz] PHP Notice:  Undefined variable: tallas in /home/lcaosysc/womenspeedup.com/pasarela/admin/productos/edita.php on line 203
+[13-Aug-2024 09:37:42 America/La_Paz] PHP Warning:  Invalid argument supplied for foreach() in /home/lcaosysc/womenspeedup.com/pasarela/admin/productos/edita.php on line 203
+[13-Aug-2024 09:37:42 America/La_Paz] PHP Notice:  Undefined variable: colores in /home/lcaosysc/womenspeedup.com/pasarela/admin/productos/edita.php on line 213
+[13-Aug-2024 09:37:42 America/La_Paz] PHP Warning:  Invalid argument supplied for foreach() in /home/lcaosysc/womenspeedup.com/pasarela/admin/productos/edita.php on line 213
+[13-Aug-2024 09:39:15 America/La_Paz] PHP Notice:  Undefined variable: variantes in /home/lcaosysc/womenspeedup.com/pasarela/admin/productos/edita.php on line 158
+[13-Aug-2024 09:39:15 America/La_Paz] PHP Warning:  Invalid argument supplied for foreach() in /home/lcaosysc/womenspeedup.com/pasarela/admin/productos/edita.php on line 158
+[13-Aug-2024 09:39:15 America/La_Paz] PHP Notice:  Undefined variable: tallas in /home/lcaosysc/womenspeedup.com/pasarela/admin/productos/edita.php on line 203
+[13-Aug-2024 09:39:15 America/La_Paz] PHP Warning:  Invalid argument supplied for foreach() in /home/lcaosysc/womenspeedup.com/pasarela/admin/productos/edita.php on line 203
+[13-Aug-2024 09:39:15 America/La_Paz] PHP Notice:  Undefined variable: colores in /home/lcaosysc/womenspeedup.com/pasarela/admin/productos/edita.php on line 213
+[13-Aug-2024 09:39:15 America/La_Paz] PHP Warning:  Invalid argument supplied for foreach() in /home/lcaosysc/womenspeedup.com/pasarela/admin/productos/edita.php on line 213
+[13-Aug-2024 09:40:13 America/La_Paz] PHP Notice:  Undefined variable: variantes in /home/lcaosysc/womenspeedup.com/pasarela/admin/productos/edita.php on line 158
+[13-Aug-2024 09:40:13 America/La_Paz] PHP Warning:  Invalid argument supplied for foreach() in /home/lcaosysc/womenspeedup.com/pasarela/admin/productos/edita.php on line 158
+[13-Aug-2024 09:40:13 America/La_Paz] PHP Notice:  Undefined variable: tallas in /home/lcaosysc/womenspeedup.com/pasarela/admin/productos/edita.php on line 203
+[13-Aug-2024 09:40:13 America/La_Paz] PHP Warning:  Invalid argument supplied for foreach() in /home/lcaosysc/womenspeedup.com/pasarela/admin/productos/edita.php on line 203
+[13-Aug-2024 09:40:13 America/La_Paz] PHP Notice:  Undefined variable: colores in /home/lcaosysc/womenspeedup.com/pasarela/admin/productos/edita.php on line 213
+[13-Aug-2024 09:40:13 America/La_Paz] PHP Warning:  Invalid argument supplied for foreach() in /home/lcaosysc/womenspeedup.com/pasarela/admin/productos/edita.php on line 213
+[13-Aug-2024 09:40:17 America/La_Paz] PHP Notice:  Undefined variable: variantes in /home/lcaosysc/womenspeedup.com/pasarela/admin/productos/edita.php on line 158
+[13-Aug-2024 09:40:17 America/La_Paz] PHP Warning:  Invalid argument supplied for foreach() in /home/lcaosysc/womenspeedup.com/pasarela/admin/productos/edita.php on line 158
+[13-Aug-2024 09:40:17 America/La_Paz] PHP Notice:  Undefined variable: tallas in /home/lcaosysc/womenspeedup.com/pasarela/admin/productos/edita.php on line 203
+[13-Aug-2024 09:40:17 America/La_Paz] PHP Warning:  Invalid argument supplied for foreach() in /home/lcaosysc/womenspeedup.com/pasarela/admin/productos/edita.php on line 203
+[13-Aug-2024 09:40:17 America/La_Paz] PHP Notice:  Undefined variable: colores in /home/lcaosysc/womenspeedup.com/pasarela/admin/productos/edita.php on line 213
+[13-Aug-2024 09:40:17 America/La_Paz] PHP Warning:  Invalid argument supplied for foreach() in /home/lcaosysc/womenspeedup.com/pasarela/admin/productos/edita.php on line 213
+[16-Aug-2024 16:21:47 America/La_Paz] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lcaosysc/womenspeedup.com/pasarela/admin/header.php:80) in /home/lcaosysc/womenspeedup.com/pasarela/admin/productos/guarda.php on line 91

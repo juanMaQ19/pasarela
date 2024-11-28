@@ -1,0 +1,1 @@
+[15-Aug-2024 18:33:22 America/La_Paz] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lcaosysc/womenspeedup.com/pasarela/admin/header.php:80) in /home/lcaosysc/womenspeedup.com/pasarela/admin/categorias/index.php on line 12

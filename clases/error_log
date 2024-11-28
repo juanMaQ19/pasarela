@@ -1,0 +1,71 @@
+[26-Jul-2024 13:50:17 America/La_Paz] PHP Warning:  require_once(Mailer.php): failed to open stream: No such file or directory in /home/lcaosysc/womenspeedup.com/pasarela/clases/captura.php on line 51
+[26-Jul-2024 13:50:17 America/La_Paz] PHP Fatal error:  require_once(): Failed opening required 'Mailer.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/lcaosysc/womenspeedup.com/pasarela/clases/captura.php on line 51
+[26-Jul-2024 13:50:49 America/La_Paz] PHP Warning:  require_once(Mailer.php): failed to open stream: No such file or directory in /home/lcaosysc/womenspeedup.com/pasarela/clases/captura.php on line 51
+[26-Jul-2024 13:50:49 America/La_Paz] PHP Fatal error:  require_once(): Failed opening required 'Mailer.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/lcaosysc/womenspeedup.com/pasarela/clases/captura.php on line 51
+[26-Jul-2024 13:51:24 America/La_Paz] PHP Warning:  require_once(Mailer.php): failed to open stream: No such file or directory in /home/lcaosysc/womenspeedup.com/pasarela/clases/captura.php on line 51
+[26-Jul-2024 13:51:24 America/La_Paz] PHP Fatal error:  require_once(): Failed opening required 'Mailer.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/lcaosysc/womenspeedup.com/pasarela/clases/captura.php on line 51
+[26-Jul-2024 13:58:03 America/La_Paz] PHP Warning:  require_once(Mailer.php): failed to open stream: No such file or directory in /home/lcaosysc/womenspeedup.com/pasarela/clases/captura.php on line 51
+[26-Jul-2024 13:58:03 America/La_Paz] PHP Fatal error:  require_once(): Failed opening required 'Mailer.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/lcaosysc/womenspeedup.com/pasarela/clases/captura.php on line 51
+[26-Jul-2024 13:58:49 America/La_Paz] PHP Warning:  require_once(Mailer.php): failed to open stream: No such file or directory in /home/lcaosysc/womenspeedup.com/pasarela/clases/captura.php on line 51
+[26-Jul-2024 13:58:49 America/La_Paz] PHP Fatal error:  require_once(): Failed opening required 'Mailer.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/lcaosysc/womenspeedup.com/pasarela/clases/captura.php on line 51
+[26-Jul-2024 13:59:19 America/La_Paz] PHP Warning:  require_once(Mailer.php): failed to open stream: No such file or directory in /home/lcaosysc/womenspeedup.com/pasarela/clases/captura.php on line 51
+[26-Jul-2024 13:59:19 America/La_Paz] PHP Fatal error:  require_once(): Failed opening required 'Mailer.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/lcaosysc/womenspeedup.com/pasarela/clases/captura.php on line 51
+[26-Jul-2024 14:02:13 America/La_Paz] PHP Warning:  require_once(Mailer.php): failed to open stream: No such file or directory in /home/lcaosysc/womenspeedup.com/pasarela/clases/captura.php on line 51
+[26-Jul-2024 14:02:13 America/La_Paz] PHP Fatal error:  require_once(): Failed opening required 'Mailer.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/lcaosysc/womenspeedup.com/pasarela/clases/captura.php on line 51
+[26-Jul-2024 14:04:05 America/La_Paz] PHP Warning:  require_once(Mailer.php): failed to open stream: No such file or directory in /home/lcaosysc/womenspeedup.com/pasarela/clases/captura.php on line 51
+[26-Jul-2024 14:04:05 America/La_Paz] PHP Fatal error:  require_once(): Failed opening required 'Mailer.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/lcaosysc/womenspeedup.com/pasarela/clases/captura.php on line 51
+[26-Jul-2024 14:04:21 America/La_Paz] PHP Warning:  require_once(Mailer.php): failed to open stream: No such file or directory in /home/lcaosysc/womenspeedup.com/pasarela/clases/captura.php on line 51
+[26-Jul-2024 14:04:21 America/La_Paz] PHP Fatal error:  require_once(): Failed opening required 'Mailer.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/lcaosysc/womenspeedup.com/pasarela/clases/captura.php on line 51
+[26-Jul-2024 14:15:56 America/La_Paz] PHP Warning:  require_once(Mailer.php): failed to open stream: No such file or directory in /home/lcaosysc/womenspeedup.com/pasarela/clases/captura.php on line 51
+[26-Jul-2024 14:15:56 America/La_Paz] PHP Fatal error:  require_once(): Failed opening required 'Mailer.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/lcaosysc/womenspeedup.com/pasarela/clases/captura.php on line 51
+[26-Jul-2024 14:16:24 America/La_Paz] PHP Warning:  require_once(Mailer.php): failed to open stream: No such file or directory in /home/lcaosysc/womenspeedup.com/pasarela/clases/captura.php on line 51
+[26-Jul-2024 14:16:24 America/La_Paz] PHP Fatal error:  require_once(): Failed opening required 'Mailer.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/lcaosysc/womenspeedup.com/pasarela/clases/captura.php on line 51
+[26-Jul-2024 14:25:17 America/La_Paz] PHP Warning:  require_once(Mailer.php): failed to open stream: No such file or directory in /home/lcaosysc/womenspeedup.com/pasarela/clases/captura.php on line 51
+[26-Jul-2024 14:25:17 America/La_Paz] PHP Fatal error:  require_once(): Failed opening required 'Mailer.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/lcaosysc/womenspeedup.com/pasarela/clases/captura.php on line 51
+[26-Jul-2024 14:25:38 America/La_Paz] PHP Warning:  require_once(Mailer.php): failed to open stream: No such file or directory in /home/lcaosysc/womenspeedup.com/pasarela/clases/captura.php on line 51
+[26-Jul-2024 14:25:38 America/La_Paz] PHP Fatal error:  require_once(): Failed opening required 'Mailer.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/lcaosysc/womenspeedup.com/pasarela/clases/captura.php on line 51
+[26-Jul-2024 14:31:46 America/La_Paz] PHP Warning:  require_once(Mailer.php): failed to open stream: No such file or directory in /home/lcaosysc/womenspeedup.com/pasarela/clases/captura.php on line 51
+[26-Jul-2024 14:31:46 America/La_Paz] PHP Fatal error:  require_once(): Failed opening required 'Mailer.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/lcaosysc/womenspeedup.com/pasarela/clases/captura.php on line 51
+[26-Jul-2024 14:33:05 America/La_Paz] PHP Warning:  require_once(Mailer.php): failed to open stream: No such file or directory in /home/lcaosysc/womenspeedup.com/pasarela/clases/captura.php on line 51
+[26-Jul-2024 14:33:05 America/La_Paz] PHP Fatal error:  require_once(): Failed opening required 'Mailer.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/lcaosysc/womenspeedup.com/pasarela/clases/captura.php on line 51
+[26-Jul-2024 14:59:18 America/La_Paz] PHP Warning:  require_once(Mailer.php): failed to open stream: No such file or directory in /home/lcaosysc/womenspeedup.com/pasarela/clases/captura.php on line 51
+[26-Jul-2024 14:59:18 America/La_Paz] PHP Fatal error:  require_once(): Failed opening required 'Mailer.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/lcaosysc/womenspeedup.com/pasarela/clases/captura.php on line 51
+[26-Jul-2024 14:59:37 America/La_Paz] PHP Warning:  require_once(Mailer.php): failed to open stream: No such file or directory in /home/lcaosysc/womenspeedup.com/pasarela/clases/captura.php on line 51
+[26-Jul-2024 14:59:37 America/La_Paz] PHP Fatal error:  require_once(): Failed opening required 'Mailer.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/lcaosysc/womenspeedup.com/pasarela/clases/captura.php on line 51
+[26-Jul-2024 15:08:46 America/La_Paz] PHP Warning:  require_once(Mailer.php): failed to open stream: No such file or directory in /home/lcaosysc/womenspeedup.com/pasarela/clases/captura.php on line 51
+[26-Jul-2024 15:08:46 America/La_Paz] PHP Fatal error:  require_once(): Failed opening required 'Mailer.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/lcaosysc/womenspeedup.com/pasarela/clases/captura.php on line 51
+[26-Jul-2024 15:10:12 America/La_Paz] PHP Warning:  require_once(Mailer.php): failed to open stream: No such file or directory in /home/lcaosysc/womenspeedup.com/pasarela/clases/captura.php on line 51
+[26-Jul-2024 15:10:12 America/La_Paz] PHP Fatal error:  require_once(): Failed opening required 'Mailer.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/lcaosysc/womenspeedup.com/pasarela/clases/captura.php on line 51
+[26-Jul-2024 15:13:05 America/La_Paz] PHP Warning:  require_once(Mailer.php): failed to open stream: No such file or directory in /home/lcaosysc/womenspeedup.com/pasarela/clases/captura.php on line 51
+[26-Jul-2024 15:13:05 America/La_Paz] PHP Fatal error:  require_once(): Failed opening required 'Mailer.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/lcaosysc/womenspeedup.com/pasarela/clases/captura.php on line 51
+[26-Jul-2024 15:15:35 America/La_Paz] PHP Warning:  require_once(Mailer.php): failed to open stream: No such file or directory in /home/lcaosysc/womenspeedup.com/pasarela/clases/captura.php on line 51
+[26-Jul-2024 15:15:35 America/La_Paz] PHP Fatal error:  require_once(): Failed opening required 'Mailer.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/lcaosysc/womenspeedup.com/pasarela/clases/captura.php on line 51
+[26-Jul-2024 15:16:58 America/La_Paz] PHP Warning:  require_once(Mailer.php): failed to open stream: No such file or directory in /home/lcaosysc/womenspeedup.com/pasarela/clases/captura.php on line 51
+[26-Jul-2024 15:16:58 America/La_Paz] PHP Fatal error:  require_once(): Failed opening required 'Mailer.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/lcaosysc/womenspeedup.com/pasarela/clases/captura.php on line 51
+[26-Jul-2024 15:30:11 America/La_Paz] PHP Warning:  require_once(Mailer.php): failed to open stream: No such file or directory in /home/lcaosysc/womenspeedup.com/pasarela/clases/captura.php on line 51
+[26-Jul-2024 15:30:11 America/La_Paz] PHP Fatal error:  require_once(): Failed opening required 'Mailer.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/lcaosysc/womenspeedup.com/pasarela/clases/captura.php on line 51
+[26-Jul-2024 15:46:23 America/La_Paz] PHP Warning:  require_once(Mailer.php): failed to open stream: No such file or directory in /home/lcaosysc/womenspeedup.com/pasarela/clases/captura.php on line 51
+[26-Jul-2024 15:46:23 America/La_Paz] PHP Fatal error:  require_once(): Failed opening required 'Mailer.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/lcaosysc/womenspeedup.com/pasarela/clases/captura.php on line 51
+[26-Jul-2024 15:50:09 America/La_Paz] PHP Warning:  require_once(Mailer.php): failed to open stream: No such file or directory in /home/lcaosysc/womenspeedup.com/pasarela/clases/captura.php on line 51
+[26-Jul-2024 15:50:09 America/La_Paz] PHP Fatal error:  require_once(): Failed opening required 'Mailer.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/lcaosysc/womenspeedup.com/pasarela/clases/captura.php on line 51
+[26-Jul-2024 15:52:13 America/La_Paz] PHP Warning:  require_once(Mailer.php): failed to open stream: No such file or directory in /home/lcaosysc/womenspeedup.com/pasarela/clases/captura.php on line 51
+[26-Jul-2024 15:52:13 America/La_Paz] PHP Fatal error:  require_once(): Failed opening required 'Mailer.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/lcaosysc/womenspeedup.com/pasarela/clases/captura.php on line 51
+[26-Jul-2024 15:53:12 America/La_Paz] PHP Warning:  require_once(Mailer.php): failed to open stream: No such file or directory in /home/lcaosysc/womenspeedup.com/pasarela/clases/captura.php on line 51
+[26-Jul-2024 15:53:12 America/La_Paz] PHP Fatal error:  require_once(): Failed opening required 'Mailer.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/lcaosysc/womenspeedup.com/pasarela/clases/captura.php on line 51
+[26-Jul-2024 15:53:27 America/La_Paz] PHP Warning:  require_once(Mailer.php): failed to open stream: No such file or directory in /home/lcaosysc/womenspeedup.com/pasarela/clases/captura.php on line 51
+[26-Jul-2024 15:53:27 America/La_Paz] PHP Fatal error:  require_once(): Failed opening required 'Mailer.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/lcaosysc/womenspeedup.com/pasarela/clases/captura.php on line 51
+[09-Aug-2024 20:39:12 America/La_Paz] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/lcaosysc/womenspeedup.com/pasarela/config/config.php:14
+Stack trace:
+#0 /home/lcaosysc/womenspeedup.com/pasarela/clases/carrito.php(2): require_once()
+#1 {main}
+  thrown in /home/lcaosysc/womenspeedup.com/pasarela/config/config.php on line 14
+[09-Aug-2024 20:39:14 America/La_Paz] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/lcaosysc/womenspeedup.com/pasarela/config/config.php:14
+Stack trace:
+#0 /home/lcaosysc/womenspeedup.com/pasarela/clases/carrito.php(2): require_once()
+#1 {main}
+  thrown in /home/lcaosysc/womenspeedup.com/pasarela/config/config.php on line 14
+[09-Aug-2024 20:39:19 America/La_Paz] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/lcaosysc/womenspeedup.com/pasarela/config/config.php:14
+Stack trace:
+#0 /home/lcaosysc/womenspeedup.com/pasarela/clases/carrito.php(2): require_once()
+#1 {main}
+  thrown in /home/lcaosysc/womenspeedup.com/pasarela/config/config.php on line 14

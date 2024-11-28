@@ -1,0 +1,70 @@
+[26-Jul-2024 13:45:53 America/La_Paz] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'lcaosysc_wsu.admin' doesn't exist in /home/lcaosysc/womenspeedup.com/pasarela/admin/clases/adminFunciones.php:70
+Stack trace:
+#0 /home/lcaosysc/womenspeedup.com/pasarela/admin/clases/adminFunciones.php(70): PDO->prepare('SELECT id, usua...')
+#1 /home/lcaosysc/womenspeedup.com/pasarela/admin/index.php(18): login('admin', '13693493', Object(PDO))
+#2 {main}
+  thrown in /home/lcaosysc/womenspeedup.com/pasarela/admin/clases/adminFunciones.php on line 70
+[26-Jul-2024 13:48:46 America/La_Paz] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lcaosysc/womenspeedup.com/pasarela/admin/clases/adminFunciones.php:70
+Stack trace:
+#0 /home/lcaosysc/womenspeedup.com/pasarela/admin/index.php(18): login('admin', '13693493', NULL)
+#1 {main}
+  thrown in /home/lcaosysc/womenspeedup.com/pasarela/admin/clases/adminFunciones.php on line 70
+[26-Jul-2024 13:52:43 America/La_Paz] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lcaosysc/womenspeedup.com/pasarela/admin/clases/adminFunciones.php:70
+Stack trace:
+#0 /home/lcaosysc/womenspeedup.com/pasarela/admin/index.php(18): login('admin', '13693493', NULL)
+#1 {main}
+  thrown in /home/lcaosysc/womenspeedup.com/pasarela/admin/clases/adminFunciones.php on line 70
+[26-Jul-2024 13:53:40 America/La_Paz] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lcaosysc/womenspeedup.com/pasarela/admin/clases/adminFunciones.php:70
+Stack trace:
+#0 /home/lcaosysc/womenspeedup.com/pasarela/admin/index.php(18): login('admin', '13693493', NULL)
+#1 {main}
+  thrown in /home/lcaosysc/womenspeedup.com/pasarela/admin/clases/adminFunciones.php on line 70
+[26-Jul-2024 13:53:40 America/La_Paz] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lcaosysc/womenspeedup.com/pasarela/admin/clases/adminFunciones.php:70
+Stack trace:
+#0 /home/lcaosysc/womenspeedup.com/pasarela/admin/index.php(18): login('admin', '13693493', NULL)
+#1 {main}
+  thrown in /home/lcaosysc/womenspeedup.com/pasarela/admin/clases/adminFunciones.php on line 70
+[26-Jul-2024 13:54:10 America/La_Paz] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lcaosysc/womenspeedup.com/pasarela/admin/clases/adminFunciones.php:70
+Stack trace:
+#0 /home/lcaosysc/womenspeedup.com/pasarela/admin/index.php(18): login('admin', '13693493', NULL)
+#1 {main}
+  thrown in /home/lcaosysc/womenspeedup.com/pasarela/admin/clases/adminFunciones.php on line 70
+[26-Jul-2024 13:54:12 America/La_Paz] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lcaosysc/womenspeedup.com/pasarela/admin/clases/adminFunciones.php:70
+Stack trace:
+#0 /home/lcaosysc/womenspeedup.com/pasarela/admin/index.php(18): login('admin', '13693493', NULL)
+#1 {main}
+  thrown in /home/lcaosysc/womenspeedup.com/pasarela/admin/clases/adminFunciones.php on line 70
+[26-Jul-2024 13:54:13 America/La_Paz] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lcaosysc/womenspeedup.com/pasarela/admin/clases/adminFunciones.php:70
+Stack trace:
+#0 /home/lcaosysc/womenspeedup.com/pasarela/admin/index.php(18): login('admin', '13693493', NULL)
+#1 {main}
+  thrown in /home/lcaosysc/womenspeedup.com/pasarela/admin/clases/adminFunciones.php on line 70
+[26-Jul-2024 13:54:19 America/La_Paz] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/lcaosysc/womenspeedup.com/pasarela/admin/clases/adminFunciones.php:70
+Stack trace:
+#0 /home/lcaosysc/womenspeedup.com/pasarela/admin/index.php(18): login('admin', '13693493', NULL)
+#1 {main}
+  thrown in /home/lcaosysc/womenspeedup.com/pasarela/admin/clases/adminFunciones.php on line 70
+[15-Aug-2024 18:25:53 America/La_Paz] PHP Notice:  Use of undefined constant AYUDANTE_URL - assumed 'AYUDANTE_URL' in /home/lcaosysc/womenspeedup.com/pasarela/admin/header2.php on line 35
+[15-Aug-2024 18:25:53 America/La_Paz] PHP Notice:  Use of undefined constant AYUDANTE_URL - assumed 'AYUDANTE_URL' in /home/lcaosysc/womenspeedup.com/pasarela/admin/header2.php on line 39
+[15-Aug-2024 18:25:53 America/La_Paz] PHP Notice:  Use of undefined constant AYUDANTE_URL - assumed 'AYUDANTE_URL' in /home/lcaosysc/womenspeedup.com/pasarela/admin/header2.php on line 49
+[15-Aug-2024 18:25:53 America/La_Paz] PHP Notice:  Use of undefined constant AYUDANTE_URL - assumed 'AYUDANTE_URL' in /home/lcaosysc/womenspeedup.com/pasarela/admin/header2.php on line 54
+[15-Aug-2024 18:25:59 America/La_Paz] PHP Notice:  Use of undefined constant AYUDANTE_URL - assumed 'AYUDANTE_URL' in /home/lcaosysc/womenspeedup.com/pasarela/admin/header2.php on line 35
+[15-Aug-2024 18:25:59 America/La_Paz] PHP Notice:  Use of undefined constant AYUDANTE_URL - assumed 'AYUDANTE_URL' in /home/lcaosysc/womenspeedup.com/pasarela/admin/header2.php on line 39
+[15-Aug-2024 18:25:59 America/La_Paz] PHP Notice:  Use of undefined constant AYUDANTE_URL - assumed 'AYUDANTE_URL' in /home/lcaosysc/womenspeedup.com/pasarela/admin/header2.php on line 49
+[15-Aug-2024 18:25:59 America/La_Paz] PHP Notice:  Use of undefined constant AYUDANTE_URL - assumed 'AYUDANTE_URL' in /home/lcaosysc/womenspeedup.com/pasarela/admin/header2.php on line 54
+[15-Aug-2024 18:26:07 America/La_Paz] PHP Notice:  Use of undefined constant AYUDANTE_URL - assumed 'AYUDANTE_URL' in /home/lcaosysc/womenspeedup.com/pasarela/admin/header2.php on line 35
+[15-Aug-2024 18:26:07 America/La_Paz] PHP Notice:  Use of undefined constant AYUDANTE_URL - assumed 'AYUDANTE_URL' in /home/lcaosysc/womenspeedup.com/pasarela/admin/header2.php on line 39
+[15-Aug-2024 18:26:07 America/La_Paz] PHP Notice:  Use of undefined constant AYUDANTE_URL - assumed 'AYUDANTE_URL' in /home/lcaosysc/womenspeedup.com/pasarela/admin/header2.php on line 49
+[15-Aug-2024 18:26:07 America/La_Paz] PHP Notice:  Use of undefined constant AYUDANTE_URL - assumed 'AYUDANTE_URL' in /home/lcaosysc/womenspeedup.com/pasarela/admin/header2.php on line 54
+[15-Aug-2024 18:36:57 America/La_Paz] PHP Warning:  require_once(../header2.php): failed to open stream: No such file or directory in /home/lcaosysc/womenspeedup.com/pasarela/admin/cambiar_password.php on line 22
+[15-Aug-2024 18:36:57 America/La_Paz] PHP Fatal error:  require_once(): Failed opening required '../header2.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/lcaosysc/womenspeedup.com/pasarela/admin/cambiar_password.php on line 22
+[15-Aug-2024 18:36:59 America/La_Paz] PHP Warning:  require_once(../header2.php): failed to open stream: No such file or directory in /home/lcaosysc/womenspeedup.com/pasarela/admin/cambiar_password.php on line 22
+[15-Aug-2024 18:36:59 America/La_Paz] PHP Fatal error:  require_once(): Failed opening required '../header2.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/lcaosysc/womenspeedup.com/pasarela/admin/cambiar_password.php on line 22
+[15-Aug-2024 18:37:03 America/La_Paz] PHP Warning:  require_once(../header2.php): failed to open stream: No such file or directory in /home/lcaosysc/womenspeedup.com/pasarela/admin/cambiar_password.php on line 22
+[15-Aug-2024 18:37:03 America/La_Paz] PHP Fatal error:  require_once(): Failed opening required '../header2.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/lcaosysc/womenspeedup.com/pasarela/admin/cambiar_password.php on line 22
+[15-Aug-2024 18:37:11 America/La_Paz] PHP Warning:  require_once(../header2.php): failed to open stream: No such file or directory in /home/lcaosysc/womenspeedup.com/pasarela/admin/cambiar_password.php on line 22
+[15-Aug-2024 18:37:11 America/La_Paz] PHP Fatal error:  require_once(): Failed opening required '../header2.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/lcaosysc/womenspeedup.com/pasarela/admin/cambiar_password.php on line 22
+[15-Aug-2024 18:37:24 America/La_Paz] PHP Warning:  require_once(../header2.php): failed to open stream: No such file or directory in /home/lcaosysc/womenspeedup.com/pasarela/admin/cambiar_password.php on line 22
+[15-Aug-2024 18:37:24 America/La_Paz] PHP Fatal error:  require_once(): Failed opening required '../header2.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/lcaosysc/womenspeedup.com/pasarela/admin/cambiar_password.php on line 22
+[15-Aug-2024 18:37:38 America/La_Paz] PHP Warning:  require_once(../header2.php): failed to open stream: No such file or directory in /home/lcaosysc/womenspeedup.com/pasarela/admin/cambiar_password.php on line 22
+[15-Aug-2024 18:37:38 America/La_Paz] PHP Fatal error:  require_once(): Failed opening required '../header2.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/lcaosysc/womenspeedup.com/pasarela/admin/cambiar_password.php on line 22
